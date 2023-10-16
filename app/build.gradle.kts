@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "ir.sepehrpour.androidmvpsample"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "ir.sepehrpour.androidmvpsample"
         minSdk = 21
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
